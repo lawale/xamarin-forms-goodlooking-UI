@@ -1,4 +1,4 @@
-# Xamarin.Forms goodlooking UI Samples
+# Xamarin.Forms goodlooking UI Samples [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A curated list of awesome **Xamarin.Forms** samples to show how to create **goodlooking UI** with Xamarin.Forms.
 
@@ -7,6 +7,180 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?* Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
+
+## [IcelandMoss](https://github.com/kphillpotts/IcelandMoss)
+
+A Xamarin.Forms UI Challenge.
+
+<img src="images/icelandmoss.png" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Bindable Layout (Staggered list).
+
+### More information:
+- Source code: [https://github.com/kphillpotts/IcelandMoss](https://github.com/kphillpotts/IcelandMoss)
+- Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
+  
+## [Credit Card Checkout](https://github.com/egbakou/CreditCardCheckout)
+
+This UI Challenge is based on the fantastic dribble designs by [Antra Sharma](https://dribbble.com/antra03).
+
+![CreditCardCheckout](images/creditcardcheckout.png)
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* CardsView.
+* PancakeView.
+
+### More information:
+
+- Blog: [Xamarin UI Challenge - Credit Card Checkout](https://lioncoding.com/2019/10/11/2019-10-11-xamarin-ui-challenge-credit-card-checkout/)
+- Source code: [https://github.com/egbakou/CreditCardCheckout](https://github.com/egbakou/CreditCardCheckout)
+- Author: [Kodjo Laurent Egbakou](https://twitter.com/lioncoding)
+
+## [DrinksGalleryApp](https://github.com/jsuarezruiz/DrinksGalleryApp)
+
+Xamarin.Forms goodlooking UI sample using the new CarouselView (Parallax). 
+
+<img src="images/drinkgalleryapp.gif" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Animations.
+* CarouselView.
+* PancakeView (Corner Radius, Gradients).
+* Parallax.
+
+### More information:
+- Source code: [https://github.com/jsuarezruiz/DrinksGalleryApp](https://github.com/jsuarezruiz/DrinksGalleryApp)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+
+## [Pretty Weather](https://github.com/jamesmontemagno/app-pretty-weather)
+
+A very pretty weather application built with Xamarin.Forms.
+
+![Pretty Weather](images/prettyweather.gif)
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* [Xamarin.Essentials](https://github.com/xamarin/Essentials).
+* PancakeView (Corner Radius, Gradients).
+  
+### More information:
+- Source code: [https://github.com/jamesmontemagno/app-pretty-weather](https://github.com/jamesmontemagno/app-pretty-weather)
+- Author: [James Montemagno](https://twitter.com/jamesmontemagno)
+
+## [TravellingApp](https://github.com/jsuarezruiz/TravellingApp)
+
+Xamarin.Forms goodlooking UI sample using the new **CarouselView**.
+
+<img src="images/travellingapp.gif" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Animations.
+* Xamarin.Forms CarouselView.
+* Custom Fonts.
+* Lottie.
+* Shell.
+* Video Player.
+
+### More information:
+- Source code: [https://github.com/jsuarezruiz/TravellingApp](https://github.com/jsuarezruiz/TravellingApp)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+
+## [WeatherApp](https://github.com/devcrux/WeatherApp)
+
+Beautiful WeatherApp UI in Xamarin.Forms.
+
+<img src="images/weatherapp.png" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features
+* ImageButton
+* ListView
+* Styles
+
+### More information:
+- Source code: [https://github.com/devcrux/WeatherApp](https://github.com/devcrux/WeatherApp)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+
+## [UnZone](https://github.com/kphillpotts/UnZone)
+
+This UI Challenge is based on the fantastic dribble designs by Rick Waalders.
+
+https://dribbble.com/shots/1551934-Unzone-Details-popup-animation
+
+![UnZone](images/unzone.gif)
+
+### Platforms
+
+Android, iOS.
+
+### Features
+* Animations
+* BindableLayout
+
+### More information:
+- Source code: [https://github.com/kphillpotts/UnZone](https://github.com/kphillpotts/UnZone)
+- Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
+
+## [BookSwap](https://github.com/kphillpotts/BookSwap)
+
+This UI Challenge is based on the fantastic dribble designs by [Tubik](https://dribbble.com/Tubik).
+
+![BookSwap](images/bookswap.gif)
+
+### Platforms
+
+Android, iOS.
+
+### Features
+* Animations
+* ListView
+* Custom ViewCell
+* SkiaSharp
+
+### More information:
+- Source code: [https://github.com/kphillpotts/BookSwap](https://github.com/kphillpotts/BookSwap)
+- Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
+
+## [FashionApp](https://github.com/devcrux/FashionApp)
+
+Beautiful Fashion App Design Using Xamarin.Forms.
+
+<img src="images/fashionapp.png" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features
+* CollectionView
+* Shell
+
+### More information:
+- Source code: [https://github.com/devcrux/FashionApp](https://github.com/devcrux/FashionApp)
+- Author: [Oludayo Alli](https://github.com/devcrux)
 
 ## [MarvelCards](https://github.com/kphillpotts/MarvelCards)
 
